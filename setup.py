@@ -26,6 +26,6 @@ setuptools.setup(
     keywords=['evolutionary computation', 'gene expression programming',
               'computational intelligence', 'genetic programming','llm initialisation'],
     packages=setuptools.find_packages(),
-    install_requires=['deap','numpy','pandas','joblib','matplotlib','ucimlrepo','numexpr','sympy','tf-models-official==2.7.0', 'tensorflow==2.11.0','rotary-embedding-tensorflow',"uci-dataset",'ucimlrepo']
+    install_requires=['deap','numpy','pandas','joblib','matplotlib','ucimlrepo','numexpr','sympy','tf-models-official==2.7.0', 'tensorflow==2.12.0','rotary-embedding-tensorflow',"uci-dataset",'ucimlrepo']
 )
 
